@@ -1,3 +1,7 @@
-h1 {
-    color: red;
+#splash {
+    color: white;
+    font-size: 5rem;
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 300px;
 }
